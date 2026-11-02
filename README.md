@@ -23,4 +23,4 @@ An English vocabulary builder that turns learning into a habit — spaced repeti
 
 ### Reach me
 
-[Website](https://fikrefanoos.com) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [Email](mailto:YOUR_EMAIL)
+[Website](https://fikrefanoos.com) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [Email](mailto:smnkhann@gmail.com)
